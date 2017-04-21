@@ -1,7 +1,7 @@
 <addons>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Geminii"
-       name="[COLOR white]Geminii[/COLOR]"
+<addon id="plugin.video.GeminiIPTV"
+       name="[COLOR white]Gemini[/COLOR]"
        version="1.0"
        provider-name="sClarke">
   <requires>
@@ -13,12 +13,13 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Geminii</summary>
+    <summary lang="en">Gemini IPTV</summary>
     <language>en</language>
-    <description lang="en">Geminii Official Addon - Supplier of Great Quality and Stable Streams</description>
+    <description lang="en">Gemini IPTV Official Addon - Supplier of Great Quality and Stable Streams</description>
      <platform>all</platform>
   </extension>
 </addon>
+
 
 
 </addons>
